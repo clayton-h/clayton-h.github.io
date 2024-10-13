@@ -3,8 +3,10 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site!
-This is the home page of my GitHub Pages site, styled with the Slate theme.
+# Welcome to My Portfolio
+Explore my projects, skills, and experience.
 
-## About
-Here’s a bit of text about me or my project.
+## Navigation
+- [About Me](/about/)
+- [Projects](/projects/)
+- [Contact](/contact/)
