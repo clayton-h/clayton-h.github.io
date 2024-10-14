@@ -5,4 +5,5 @@ permalink: /contact/
 ---
 
 # Contact Information
-Placeholder text.
+[LinkedIn](www.linkedin.com/in/claytome)
+[GitHub](https://github.com/clayton-h)
