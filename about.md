@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 ---
 
-# About This Site
-This is an example GitHub Pages site using the Slate theme.
+# ...
+Placeholder text.
