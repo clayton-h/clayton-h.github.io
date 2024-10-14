@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contact
+title: Contact Me
 permalink: /contact/
 ---
 
-# About This Site
-This is an example GitHub Pages site using the Slate theme.
+# Contact Information
+Placeholder text.
