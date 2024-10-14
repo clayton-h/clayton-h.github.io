@@ -14,5 +14,5 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 - **Project 2:** Description of the second project. [View project repository]()
 
 ## Contact
-- [LinkedIn]()
+- [LinkedIn](www.linkedin.com/in/claytome)
 - [GitHub](https://github.com/clayton-h)
