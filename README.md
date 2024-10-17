@@ -18,7 +18,7 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 
 ## Other Work
 [TryHackMe](https://tryhackme.com/r/p/claytonhodges326)
-[Kattis]()
+[Kattis](https://open.kattis.com/users/clayton-hodges) #FIXME: private solved problems
 
 ## Contact
 - [LinkedIn](www.linkedin.com/in/claytome)
