@@ -12,9 +12,9 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 ## Featured Projects
 - **DevOps - Microsoft Azure OpenAI Email Sentiment Analysis:** This project automates email sentiment analysis through the creation of an Azure Function App. By leveraging Azure's cloud capabilities, the project showcases expertise in application development, resource allocation, and the innovative integration of diverse tools to streamline cloud-based task execution. [View project repository](https://github.com/clayton-h/devops-cbhodges)
   
-- **CyberSecurity - Penetration Testing and Ethical Hacking:** I have hands-on experience in understanding and executing controlled cyber attacks, which has deepened my knowledge and skills in cybersecurity. Through projects utilizing TryHackMe and Ghidra, I've honed my ability to identify vulnerabilities and strengthen security measures. [View software security project repository](https://github.com/clayton-h/SS-cbhodges)
+- **CyberSecurity - Penetration Testing and Ethical Hacking:** I have hands-on experience in understanding and executing controlled cyber attacks, which has deepened my knowledge and skills in cybersecurity. Through projects utilizing TryHackMe and Ghidra, I've honed my ability to identify vulnerabilities and strengthen security measures. [View project repository](https://github.com/clayton-h/SS-cbhodges)
 
-- **Project 3:** Description of what this project is, its purpose, and what skills it demonstrates. [View project repository]()
+- **User Interface Design - Android Studio Application Development:** Description of what this project is, its purpose, and what skills it demonstrates. [View project repository]()
 
 ## Other Work
 [TryHackMe](https://tryhackme.com/r/p/claytonhodges326)
