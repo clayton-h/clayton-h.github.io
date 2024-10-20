@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+- [Go Back](/index/)
+
 ## Featured Projects
 - **DevOps - Microsoft Azure OpenAI Email Sentiment Analysis:** This project automates email sentiment analysis through the creation of an Azure Function App. By leveraging Azure's cloud capabilities, the project showcases expertise in application development, resource allocation, and the innovative integration of diverse tools to streamline cloud-based task execution. [View project repository](https://github.com/clayton-h/devops-cbhodges)
   
