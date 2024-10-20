@@ -3,7 +3,7 @@
 Welcome to my software development portfolio. This repository showcases my experience with coding projects in various contexts.
 
 ## Portfolio Website
-You can view my portfolio and explore my projects in detail at:  
+You can view my portfolio and explore my featured projects in detail at:  
 [https://clayton-h.github.io](https://clayton-h.github.io)
 
 ## About Me
