@@ -14,11 +14,13 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
   
 - **CyberSecurity - Penetration Testing and Ethical Hacking:** I have hands-on experience in understanding and executing controlled cyber attacks, which has deepened my knowledge and skills in cybersecurity. Through projects utilizing TryHackMe, SEED Labs, and Ghidra, I've honed my ability to identify vulnerabilities and strengthen security measures. [View project repository](https://github.com/clayton-h/SS-cbhodges)
 
-- **User Interface Design - Android Studio Application Development:** GeoTasker is an original Android app designed to optimize productivity by integrating geolocation technology into smart task lists. Targeted at users aged 16-34, it aims to leverage Google Maps data to enhance time and location-based task management, improving daily scheduling efficiency while providing a platform for local businesses to connect with potential customers. This project demonstrates skills in Android development, UI/UX design, API utilization, and agile development through iterative design. [View project repository](https://github.com/clayton-h/ui-cbhodges) #FIXME: PRIVATE
+- **User Interface Design - Android Studio Application Development:** GeoTasker is an original Android app designed to optimize productivity by integrating geolocation technology into smart task lists. Targeted at users aged 16-34, it aims to leverage Google Maps data to enhance time and location-based task management, improving daily scheduling efficiency while providing a platform for local businesses to connect with potential customers. This project demonstrates skills in Android development, UI/UX design, API utilization, and agile development through iterative design. [View project repository](https://github.com/clayton-h/ui-cbhodges)
 
 ## Other Work
 - Visit my [TryHackMe](https://tryhackme.com/r/p/claytonhodges326) account.
-- Visit my [Kattis](https://open.kattis.com/users/clayton-hodges) account. #FIXME: private solved problems
+- Visit my [Kattis](https://open.kattis.com/users/clayton-hodges) account.
+  <img width="739" alt="image" src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df">
+
 
 ## Contact
 - Visit my [LinkedIn](www.linkedin.com/in/claytome) account.
