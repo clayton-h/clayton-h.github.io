@@ -17,9 +17,9 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 - **User Interface Design - Android Studio Application Development:** GeoTasker is an original Android app designed to optimize productivity by integrating geolocation technology into smart task lists. Targeted at users aged 16-34, it aims to leverage Google Maps data to enhance time and location-based task management, improving daily scheduling efficiency while providing a platform for local businesses to connect with potential customers. This project demonstrates skills in Android development, UI/UX design, API utilization, and agile development through iterative design. [View project repository](https://github.com/clayton-h/ui-cbhodges) #FIXME: PRIVATE
 
 ## Other Work
-- Visit my [TryHackMe](https://tryhackme.com/r/p/claytonhodges326) account.
-- Visit my [Kattis](https://open.kattis.com/users/clayton-hodges) account. #FIXME: private solved problems
+- Visit my [TryHackMe](https://tryhackme.com/r/p/claytonhodges326).
+- Visit my [Kattis](https://open.kattis.com/users/clayton-hodges). #FIXME: private solved problems
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/claytome)
-- [GitHub](https://github.com/clayton-h)
+- Visit my [LinkedIn](www.linkedin.com/in/claytome).
+- Visit my [GitHub](https://github.com/clayton-h).
