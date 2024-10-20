@@ -18,8 +18,9 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 
 ## Other Work
 - Visit my [TryHackMe](https://tryhackme.com/r/p/claytonhodges326) account.
+- <img width="780" alt="image" src="https://github.com/user-attachments/assets/fccf7812-fcf5-491a-bd8f-4982a59cbc5c">
 - Visit my [Kattis](https://open.kattis.com/users/clayton-hodges) account.
-  <img width="739" alt="image" src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df">
+- <img width="739" alt="image" src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df">
 
 
 ## Contact
