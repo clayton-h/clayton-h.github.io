@@ -19,14 +19,14 @@ I'm a computer scientist with a passion for coding, problem-solving, and continu
 ## Other Work
 Here are additional platforms where I showcase my problem-solving and technical skills:
 
-- **TryHackMe:**  
-  Explore my TryHackMe profile to see how I've applied cybersecurity concepts in practical environments:  
-  [Visit my TryHackMe account](https://tryhackme.com/r/p/claytonhodges326)  
+- **TryHackMe:**
+  Explore my TryHackMe profile to see how I've applied cybersecurity concepts in practical environments:
+  [Visit my TryHackMe account](https://tryhackme.com/r/p/claytonhodges326)
   ![TryHackMe Challenges](https://github.com/user-attachments/assets/fccf7812-fcf5-491a-bd8f-4982a59cbc5c)
 
-- **Kattis:**  
-  Check out my Kattis profile to view competitive coding challenges I've tackled:  
-  [Visit my Kattis account](https://open.kattis.com/users/clayton-hodges)  
+- **Kattis:**
+  Check out my Kattis profile to view coding challenges I've tackled:
+  [Visit my Kattis account](https://open.kattis.com/users/clayton-hodges)
   ![Kattis Problems Solved](https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df)
 
 
