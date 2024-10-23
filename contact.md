@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact/
 ---
 
-[Go Back](/index/)
+[Go Back](/)
 
 # Contact Information
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/claytome).
