@@ -23,7 +23,7 @@ Here are additional platforms where I showcase my problem-solving and technical 
   Explore my TryHackMe profile to see how I've applied cybersecurity concepts in practical environments:
   [Visit my TryHackMe account](https://tryhackme.com/r/p/claytonhodges326)
   
-  ![TryHackMe Challenges](https://github.com/user-attachments/assets/fccf7812-fcf5-491a-bd8f-4982a59cbc5c)
+  ![TryHackMe Challenges](https://github.com/user-attachments/assets/d989baf0-585a-43e1-9013-1c051b8cd306)
 
 - **Kattis:**
   Check out my Kattis profile to view coding challenges I've tackled:
