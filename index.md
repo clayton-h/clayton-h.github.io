@@ -28,12 +28,12 @@ title: Home
 <p>Explore my TryHackMe profile to see how I've applied cybersecurity concepts in practical environments.</p>
 <a href="https://tryhackme.com/r/p/claytonhodges326" target="_blank">Visit my TryHackMe account</a>
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/f1e3a53c-6877-4802-8f36-3e185db51353" style="max-width:75%; height:auto;"/>
+  <img src="https://github.com/user-attachments/assets/f1e3a53c-6877-4802-8f36-3e185db51353"/>
 </div>
 
 <h3>Kattis</h3>
 <p>Check out my Kattis profile to view coding challenges I've tackled.</p>
 <a href="https://open.kattis.com/users/clayton-hodges" target="_blank">Visit my Kattis account</a>
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df" style="max-width:75%; height:auto;"/>
+  <img src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df"/>
 </div>
