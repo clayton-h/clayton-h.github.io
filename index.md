@@ -7,8 +7,8 @@ title: Home
 Explore my projects, skills, and experience.
 
 ## About Me
-![pfp](https://github.com/user-attachments/assets/fccf7812-fcf5-491a-bd8f-4982a59cbc5c)
 I'm a computer scientist with a passion for coding, problem-solving, and continuous learning. My experience spans across languages like Python and C++, with a focus on building efficient, well-documented, and scalable solutions.
+![pfp](https://github.com/user-attachments/assets/703584de-0969-472a-8adf-960f25248998)
 
 ## My Projects
 - [Projects](/projects/)
