@@ -7,7 +7,7 @@ title: Home
 <p>Explore my projects, skills, and experience.</p>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/dee7d064-0db6-4b7b-b937-40ea4b69f778" style="width:150px; margin-right:15px;"/>
+  <img src="https://github.com/user-attachments/assets/b36c6411-0f0b-4488-8f23-84e00c84f255" style="width:150px; height:auto; margin-right:15px;"/>
   
   <div>
     <h2>About Me</h2>
@@ -29,12 +29,12 @@ title: Home
 <p>Explore my TryHackMe profile to see how I've applied cybersecurity concepts in practical environments.</p>
 <a href="https://tryhackme.com/r/p/claytonhodges326" target="_blank">Visit my TryHackMe account</a>
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/b7c64453-bd3d-413e-bf14-38f9e5fa1917" style="width:500px;"/>
+  <img src="https://github.com/user-attachments/assets/b7c64453-bd3d-413e-bf14-38f9e5fa1917" style="width:auto; height:auto;"/>
 </div>
 
 <h3>Kattis</h3>
 <p>Check out my Kattis profile to view coding challenges I've tackled.</p>
 <a href="https://open.kattis.com/users/clayton-hodges" target="_blank">Visit my Kattis account</a>
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df" style="width:500px; margin-right:100px;"/>
+  <img src="https://github.com/user-attachments/assets/441fc58b-0cb8-484e-9f71-19fa1d15f9df" style="width:auto; height:auto;"/>
 </div>
