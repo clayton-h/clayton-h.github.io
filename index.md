@@ -14,6 +14,7 @@ title: Home
   .responsive_pfp {
     width: 80%;
     max-width: none;
+    margin-right: 150px
   }
 }
 </style>
