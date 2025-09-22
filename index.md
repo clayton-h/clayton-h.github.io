@@ -7,7 +7,7 @@ title: Home
 <p>Explore my projects, skills, and experience.</p>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/44bd5a35-58fb-40a5-987b-160eccb222c6" style="width:150px; margin-right:15px;"/>
+  <img src="https://github.com/user-attachments/assets/ec317391-d54e-46ce-a39a-039e7a6d3cb8" style="width:150px; margin-right:15px;"/>
   
   <div>
     <h2>About Me</h2>
