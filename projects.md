@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Go Back](/)
+<p>↩️<a href="/">Go Back</a></p>
 
 <h1>Featured Projects</h1>
 <h2>DevOps - Microsoft Azure OpenAI Email Sentiment Analysis</h2>
