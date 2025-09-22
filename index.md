@@ -12,7 +12,7 @@ title: Home
   <div>
     <h2>About Me</h2>
     <p>I'm a computer scientist with a passion for coding, problem-solving, and continuous learning. My primary experience is in Python and C++, where I focus on creating efficient, well-documented, and scalable solutions. I also have introductory experience with frontend development using CSS and JavaScript.</p>
-    <h2>Contact Me</h2>
+    <h3>Contact Me</h3>
     <p>Connect with me on <a href="https://www.linkedin.com/in/claytome" target="_blank">LinkedIn</a></p>
     <p>Explore more of my work on <a href="https://github.com/clayton-h" target="_blank">GitHub</a></p>
   </div>
