@@ -19,7 +19,8 @@ title: Home
 </div>
 
 <h2>My Projects</h2>
-<p><a href="/projects/">Projects</a></p>
+<p>Browse some of my featured GitHub repositories.</p>
+💼<a href="/projects/">GitHub Repos</a>
 
 <h2>Other Work</h2>
 <p>Here are additional platforms where I showcase my problem-solving and technical skills.</p>
