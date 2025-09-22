@@ -3,27 +3,11 @@ layout: default
 title: Home
 ---
 
-<style>
-.responsive_pfp {
-  width: 150px;
-  height: auto;
-  margin-right: 15px;
-}
-
-@media (max-width: 600px) {
-  .responsive_pfp {
-    width: 80%;
-    max-width: none;
-    margin-right: 150px
-  }
-}
-</style>
-
 <h1>Welcome to My Portfolio</h1>
 <p>Explore my projects, skills, and experience.</p>
 
 <div style="display: flex; align-items: flex-start;">
-  <img class="responsive_pfp" src="https://github.com/user-attachments/assets/b36c6411-0f0b-4488-8f23-84e00c84f255"/>
+  <img src="https://github.com/user-attachments/assets/b36c6411-0f0b-4488-8f23-84e00c84f255" style="width:150px; margin-right:15px;"/>
   
   <div>
     <h2>About Me</h2>
